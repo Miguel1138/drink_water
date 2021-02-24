@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">drink_water</string>
+    <string name="hint_set_timer">"min. de Intervalo "</string>
+    <string name="create_alarm">Criar Alarme</string>
+    <string name="error_interval_not_selected">"Campo do intervalo vazio ! "</string>
+    <string name="btn_msg_pause">Pausar</string>
+    <string name="error_interval_value_zero">Valor do intervalo deve ser maior que zero.</string>
+</resources>
